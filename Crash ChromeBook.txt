@@ -20,5 +20,4 @@ Chrome://memory-exhaust/ : Crashes Tab
 
 Chrome://badcastcrash/ : Crashes Tab
 
-
 Credits To My Friend Cooper For Finding This Out @
